@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "dev": "node --inspect src/webServer/index.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
